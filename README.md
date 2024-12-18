@@ -1,9 +1,9 @@
 
-
+<h1 align="center">Hi 👋, I'm Mikael Bashir</h1>
 
 ![full moon](https://github.com/mikael-bashir/mikael-bashir/blob/main/Screenshot%202024-11-04%20at%2007.30.17.png?raw=true)
 
-<h1 align="center">Hi 👋, I'm Mikael Bashir</h1>
+
 <h3 align="center">I am a 19-year-old software developer studying at Imperial College London, currently based in London, UK.</h3>
 <h4 align="center">I am interested in web app development, and AI/ML.</h4>
 

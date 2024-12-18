@@ -1,4 +1,4 @@
-# Hi, I'm Mikael Bashir! 👋
+
 
 
 ![full moon](https://github.com/mikael-bashir/mikael-bashir/blob/main/Screenshot%202024-11-04%20at%2007.30.17.png?raw=true)

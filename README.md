@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bashir.mikael@outlook.com**
 
-- ⚡ Fun fact **I once wanted to be an artist**
+- ⚡ Fun fact **I made the above image with vanilla HTML and CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

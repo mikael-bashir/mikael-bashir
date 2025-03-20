@@ -5,7 +5,7 @@
 
 
 <h3 align="center">I am a software developer, and in my second year of three at Imperial College London, currently based in London, UK.</h3>
-<h4 align="center">I am interested in web app development, and AI/ML.</h4>
+<h4 align="center">I am interested in web app development</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikael-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="mikael-bashir" /> </p>
 

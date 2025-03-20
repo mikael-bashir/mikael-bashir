@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [London Student Network website](https://www.londonstudentnetwork.com/)
 
-- 🌱 I’m currently learning about **AWS**, by incorporating in my projects
+- 🌱 I’m currently learning about **Three.js**, by incorporating in my projects
 
 - 📫 How to reach me **bashir.mikael@outlook.com**
 

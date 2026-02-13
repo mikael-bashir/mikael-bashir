@@ -4,7 +4,7 @@
 ![full moon](https://github.com/mikael-bashir/mikael-bashir/blob/main/Screenshot%202024-11-04%20at%2007.30.17.png?raw=true)
 
 
-<h3 align="center">I am a software developer, and in my second year of three at Imperial College London, currently based in London, UK.</h3>
+<h3 align="center">I am a software developer, and in my final yeaer at Imperial College London, currently based in London, UK.</h3>
 <h4 align="center">I am interested in web app development</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikael-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="mikael-bashir" /> </p>

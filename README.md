@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikael-bashir" alt="mikael-bashir" /></a> </p>
 
-- 🔭 I’m currently working on [London Student Network website](https://www.londonstudentnetwork.com/)
+- 🔭 I’m currently working on [CompeteMath website](https://www.competemath.com/)
 
-- 🌱 I’m currently learning about **Three.js**, by incorporating in my projects
+- 🌱 I’m currently trying to master **Next.js**, by incorporating in my projects
 
-- 📫 How to reach me **bashir.mikael@outlook.com**
+- 📫 You can reach me at **bashir.mikael@outlook.com**
 
-- ⚡ Fun fact **I hardcoded the above image with vanilla HTML and CSS**
+- ⚡ Fun fact **I hardcoded the above image with vanilla HTML and CSS** (inspired by: https://giphy.com/gifs/moon-night-FWtVYDHIxgGgE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,20 +4,21 @@
 ![full moon](https://github.com/mikael-bashir/mikael-bashir/blob/main/Screenshot%202024-11-04%20at%2007.30.17.png?raw=true)
 
 
-<h3 align="center">I am a software developer, and in my final year at Imperial College London, currently based in London, UK.</h3>
-<h4 align="center">I am interested in web app development</h4>
+<h3 align="center">I am a software engineer, currently based in Manchester, UK, but open to travel for the right opportunity.</h3>
+<h4 align="center">I enjoy working on challenging problems with high relevance to the real world.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikael-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="mikael-bashir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikael-bashir" alt="mikael-bashir" /></a> </p>
 
-- 🔭 I’m currently working on [CompeteMath website](https://www.competemath.com/)
+- 🔭 I’m currently working on [CompeteMath website](https://www.competemath.com/) and its open-source [sub-services](https://www.github.com/competemath)
 
-- 🌱 I’m currently trying to master **Next.js**, by incorporating in my projects
+- 🌱 The exact problem I am trying to solve right now is "how to efficiently upgrade a proof in an old Lean 4 toolchain to one in a new toolchain, without losing
+  the meaning of the proof"
 
 - 📫 You can reach me at **bashir.mikael@outlook.com**
 
-- ⚡ Fun fact **I hardcoded the above image with vanilla HTML and CSS** (inspired by: https://giphy.com/gifs/moon-night-FWtVYDHIxgGgE)
+- ⚡ Fun fact - **I coded the above image using only HTML divs, hand-styled and positioned with CSS** (inspired by: https://giphy.com/gifs/moon-night-FWtVYDHIxgGgE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

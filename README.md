@@ -16,7 +16,7 @@
 
 - 📫 You can reach me at **bashir.mikael@outlook.com**
 
-- ⚡ Fun fact - **I coded the above image using only HTML divs, hand-styled and positioned with CSS** (inspired by: https://giphy.com/gifs/moon-night-FWtVYDHIxgGgE)
+- ⚡ Fun fact - **I [coded](https://github.com/mikael-bashir/Masterpiece) the above image using only HTML divs, hand-styled and positioned with CSS** (inspired by: https://giphy.com/gifs/moon-night-FWtVYDHIxgGgE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mikael Bashir</h1>
+<h1 align="center">Hi 👋, I'm Mikael</h1>
 
 
 <h3 align="center">I am a software engineer, currently based in Manchester, UK, but open to travel for the right opportunity.</h3>

@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mikael Bashir</h1>
 
-![full moon](https://github.com/mikael-bashir/mikael-bashir/blob/main/Screenshot%202024-11-04%20at%2007.30.17.png?raw=true)
 
 
 <h3 align="center">I am a software engineer, currently based in Manchester, UK, but open to travel for the right opportunity.</h3>

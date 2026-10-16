@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mikael Bashir</h1>
 
 
-
 <h3 align="center">I am a software engineer, currently based in Manchester, UK, but open to travel for the right opportunity.</h3>
 <h4 align="center">I enjoy working on challenging problems with high relevance to the real world.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikael-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="mikael-bashir" /> </p>
 
 - 🔭 I’m currently working on [CompeteMath](https://www.competemath.com/) and its open-source [sub-services](https://www.github.com/competemath)
 

@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikael-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="mikael-bashir" /> </p>
 
-- 🔭 I’m currently working on [CompeteMath website](https://www.competemath.com/) and its open-source [sub-services](https://www.github.com/competemath)
+- 🔭 I’m currently working on [CompeteMath](https://www.competemath.com/) and its open-source [sub-services](https://www.github.com/competemath)
 
 - 🌱 The exact problem I am trying to solve right now is "how to efficiently upgrade a proof in an old Lean 4 toolchain to one in a new toolchain, without losing
   the meaning of the proof"
